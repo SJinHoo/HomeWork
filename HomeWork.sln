@@ -3,27 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestPathPractice", "ShortestPathPractice\ShortestPathPractice.csproj", "{70011809-8AB7-48F8-8DA1-9FE38EC0B79E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShortestPathPractice", "ShortestPathPractice\ShortestPathPractice.csproj", "{70011809-8AB7-48F8-8DA1-9FE38EC0B79E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTreePractice", "BinarySearchTreePractice\BinarySearchTreePractice.csproj", "{3B0AEBA2-6302-40CB-8B35-D929DA46C10B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearchTreePractice", "BinarySearchTreePractice\BinarySearchTreePractice.csproj", "{3B0AEBA2-6302-40CB-8B35-D929DA46C10B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTablePractice", "DictionaryPractice\HashTablePractice.csproj", "{EFC617EF-79FF-4B14-A1FF-2E4C046A4FB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTablePractice", "DictionaryPractice\HashTablePractice.csproj", "{EFC617EF-79FF-4B14-A1FF-2E4C046A4FB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory", "Inventory\Inventory.csproj", "{CBDE3E08-BD7D-4E43-BA3F-A6EAE056124F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory", "Inventory\Inventory.csproj", "{CBDE3E08-BD7D-4E43-BA3F-A6EAE056124F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPractice", "IteratorPractice\IteratorPractice.csproj", "{51BB1B7F-0C28-4FF5-9BD8-259CA8E0105F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorPractice", "IteratorPractice\IteratorPractice.csproj", "{51BB1B7F-0C28-4FF5-9BD8-259CA8E0105F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort", "Sort\Sort.csproj", "{C8BD1638-EEB0-49E6-B8EF-C4BB5B14C57E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort", "Sort\Sort.csproj", "{C8BD1638-EEB0-49E6-B8EF-C4BB5B14C57E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LEVELTEST", "LEVELTEST\LEVELTEST.csproj", "{2CF78072-E702-4DD2-B7AA-FC97C5C43C47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LEVELTEST", "LEVELTEST\LEVELTEST.csproj", "{2CF78072-E702-4DD2-B7AA-FC97C5C43C47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListPractice", "LinkedListPractice\LinkedListPractice.csproj", "{07AA1846-86F2-43D1-8ED0-9FA91A039879}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListPractice", "LinkedListPractice\LinkedListPractice.csproj", "{07AA1846-86F2-43D1-8ED0-9FA91A039879}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueuePractice", "PriorityQueuePractice\PriorityQueuePractice.csproj", "{BF815FC1-67CC-4A5F-B7C1-8D7334A2F1A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriorityQueuePractice", "PriorityQueuePractice\PriorityQueuePractice.csproj", "{BF815FC1-67CC-4A5F-B7C1-8D7334A2F1A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortPractice", "SortPractice\SortPractice.csproj", "{1AB5B6E6-D463-4BD4-82CE-FC5D1CC6921A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortPractice", "SortPractice\SortPractice.csproj", "{1AB5B6E6-D463-4BD4-82CE-FC5D1CC6921A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackQueuePractice", "StackQueuePractice\StackQueuePractice.csproj", "{2C4A1E04-18C0-4973-B7EE-CFF23A861A8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackQueuePractice", "StackQueuePractice\StackQueuePractice.csproj", "{2C4A1E04-18C0-4973-B7EE-CFF23A861A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "230503.AStarPractice", "230503.AStarPractice\230503.AStarPractice.csproj", "{1CF6932A-13D7-43D5-866B-B75DB9779649}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{2C4A1E04-18C0-4973-B7EE-CFF23A861A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C4A1E04-18C0-4973-B7EE-CFF23A861A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C4A1E04-18C0-4973-B7EE-CFF23A861A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF6932A-13D7-43D5-866B-B75DB9779649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF6932A-13D7-43D5-866B-B75DB9779649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF6932A-13D7-43D5-866B-B75DB9779649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF6932A-13D7-43D5-866B-B75DB9779649}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
