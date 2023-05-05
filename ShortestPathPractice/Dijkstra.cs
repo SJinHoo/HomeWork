@@ -11,7 +11,7 @@
 
             cost = new int[size];               // 최단 거리의 결과 갯수
             path = new int[size];               // 최단 경로의 결과 갯수
-
+           
             for (int i = 0; i < size; i++)      // 맨 처음 값 설정
             {
                 cost[i] = graph[start, i];      // 시작지점으로 부터 연결이 되어있는 거리의 cost
